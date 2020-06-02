@@ -1,0 +1,6 @@
+~OLPrikazy  :~RS copyto
+~OLPouzitie :~RS copyto <uzivatel1> [<uzivatel2>...]
+
+Tento prikaz dokaze nastavit posielanie hromadnej posty. Nastavis si
+niekolkych uzivatelov, ktorym chcete nieco poslat (oddeleny medzerou)
+a nasledujuci smail pride im vsetkym.

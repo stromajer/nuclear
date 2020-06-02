@@ -1,0 +1,6 @@
+~OLPrikaz  :~RS cname
+~OLPouzitie:~RS cname <stare meno> <nove meno>
+
+Tymto prikazom mozes niekomu zmenit meno bez toho zeby si musel mazat
+a vytvarat konta. Uzivatel pri vykonavani tohoto prikazu moze ale nemusi
+byt online. Nezabudaj ze na premenovanie mame iste pravidla.

@@ -1,0 +1,7 @@
+~OLPrikaz  :~RS cbuff
+~OLPouzitie:~RS cbuff
+~OLSkratka :~RS *
+
+Vymaze buffer miestnosti kde ste. V praxy to znamena tolko ze
+kto da v miestnosti .rev neuvidi co sa rozpravalo predtym nez
+si ty dal .cbuff

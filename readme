@@ -1,0 +1,47 @@
++-----------------------------------------------------------------------------+
+ README - README - README - README - README - README - README - README - README
+   Introductory information for the Unix talker code Amnuts (version 2.3.0)
++-----------------------------------------------------------------------------+
+
+Welcome to the Amnuts talker code, version 2.3.0!  Or, if you have already
+used Amnuts, then welcome back!  This is the latest version of Amnuts and MANY
+things have changed.  If you are already familiar with Amnuts then you may want
+to skip down to the next section, else please keep reading.
+
+What is Amnuts?  Well, I'm going to guess that if you have this code then
+you've been to the website and have read all about what Amnuts is, and know
+it's what you want (or think it's what you want, and you're just trying it
+out.)  So I won't go over details again.  Just check out the website
+(http://amnuts.talker.com/) for full information.
+
+Please read the 'IMPORTANT' file, and the 'amnuts_changes' in the DOCs
+directory for more information on what changes have been made since
+version 2.2.1 (the previous release to this one) because there have been a
+LOT of them!  Even if you are a previous Amnuts user, programmer, owner,
+whatever - you should STILL READ THE FILES! :)
+
+I've put a fair amount of time into Amnuts (well, actually, I've put shit
+loads of time into it... Why beat around the bush, huh?), its documents and
+the website, so I would appreciate it if you don't add a few small commands
+and then think that gives you the right to rename the code.  This is very
+unfair and, I think, pretty damn disrespectful of the amount of time that
+has been put into giving you this code free, and also providing you with
+documents and the website.  The same goes for if you nick bits of the code
+to put into your own talker - a mention in the credits of where the code
+came from would be nice!  Especially if it's a feature you don't find on
+anything else other than Amnuts, or is obvious it came from Amnuts.  Please
+see the COPYRIGHT information for more information.
+
+The above was the only bitch part that I needed to do.  Other than that, I
+hope that you enjoy the code, and if you have any questions or comments,
+ideas or bug reports then please feel free to email me.  The address you can
+do that to is shown below.  
+
+Thanks for using Amnuts!  Enjoy!
+
+
+                                                             Andrew Collington
+                                                               September, 2001
++-----------------------------------------------------------------------------+
+email: amnuts@talker.com                         web: http://amnuts.talker.com/
++-----------------------------------------------------------------------------+

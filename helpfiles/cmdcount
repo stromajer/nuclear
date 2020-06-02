@@ -1,0 +1,5 @@
+~OLPrikaz  :~RS cmdcount
+~OLPouzitie:~RS cmdcount
+
+Toto umozni vidiet ake prikazy boli pouzite, kolko krat a percentualne
+vyjadrenie podielu na vsetkych pouzivanych.

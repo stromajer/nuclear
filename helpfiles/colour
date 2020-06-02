@@ -1,0 +1,9 @@
+~OLPrikaz  :~RS colour
+~OLPouzitie:~RS colour
+
+Umozni vyskusat nastavenie farieb talkera. Pokial ho chcete zmenit
+vyskusajte .set colour (ON - zapnute, OFF - vypnute). S farbami je
+talker ovela prehladnejsi, ale svoj zmysel moze mat aj vypnutie
+farieb napr. ked mate mimoriadne obmedzene mnozstvo dat, ktore
+mozete preniest. Talkrovanie vsak vela dat "nezerie", no ak mate
+k dispozicii napr. len 10-30MB mesacne radsej si farby vypnite.

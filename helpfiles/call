@@ -1,0 +1,8 @@
+~OLPrikaz  :~RS call
+~OLPouzitie:~RS call [<uzivatel>]
+~OLSkratka :~RS ,
+
+Umozni si nastavit "quick call" na nejakeho uzivatela. Znamena to asi
+tolko ze ked si nastavim quick-call na uzivatela Ferko (.call Ferko)
+tak namiesto ".tell Ferko Ahoj", staci pisat len ",Ahoj". To, na koho
+mate quickcall nastaveny si mozete kedykolvek zmenit.

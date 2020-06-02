@@ -1,0 +1,7 @@
+~OLPrikaz  :~RS bfrom
+~OLPouzitie:~RS bfrom [<miestnost>]
+
+Ukaze zoznam ludi ktori pisali na nastenku do miestnosti ktoru zadate,
+bez toho aby sa zobrazili kontretne spravy ktore pisali. Ak nezadate
+konkretnu miestnost zobrazi sa zoznam prispievajucich v miestnosti kde
+prave ste.

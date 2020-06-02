@@ -1,0 +1,6 @@
+~OLPrikaz  :~RS adminfiles
+~OLPouzitie:~RS adminfiles [<file>]
+
+Toto ti umozni zobrazit urcite subory, ktore su len pre wizzardov. Ak
+chces vediet, ktore subory su k dispozicii vynechaj parameter <file>.
+Alebo pouzi aj parameter <file> na zobrazenie konkretneho suboru.

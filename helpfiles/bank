@@ -1,0 +1,9 @@
+~OLPrikaz  :~RS bank
+~OLPouzitie:~RS bank deposit <suma> | withdraw <suma> | balance
+
+Tento prikaz umozni pozriet si kolko penazi mas v banke. Pouzitim
+parametra deposit mozes vlozit urcitu sumu do banky (ak ju mas),
+moznost withdraw sluzi na vybratie nejakych penazi z banky (ak tam
+nejake vobec mate) a ak pouzijete parameter balance zobrazi sa vam
+suma ktoru mate na ucte.
+

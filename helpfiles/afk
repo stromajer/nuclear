@@ -1,0 +1,12 @@
+~OLPrikaz  :~RS afk
+~OLPouzitie:~RS afk [lock] [<text>]
+
+Tento prikaz ti umozni nastavit seba ako "Vzdialeneho od klavesnice"
+(away from keyboard), co sa ukaze ludom, ktori su v miestnosti. Oznam
+o tom ze si nepritomny pri PC sa zobrazi vsetkym ludom ktori ti nieco
+povedia. Ked pouzijes parameter [lock] tvoj pristup ku klavesnici sa
+uzamkne. Znamena to, ze ked sa budes xciet vratit budes pritom musiet
+zadat svoje heslo. Takato ochrana je dobra na verejnejsich miestach
+kde by sa ku klavesnici mohol dostat nejaky "kamarat" a robit za teba
+blbosti. Za prikaz .afk si dalej mozes nastavit afk spravu, ktore sa
+zobrazi kazdemu kto ti nieco tellne (napr. .afk Som v sprche).

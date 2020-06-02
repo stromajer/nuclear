@@ -1,0 +1,9 @@
+~OLPrikaz  :~RS arrest
+~OLPouzitie:~RS arrest <user>
+
+Posle vybraneho uzivatela do zalara (ak je zalar urceny) a nastavi jeho
+level na UVAZNENY. Ak sa uzivatel odhlasi a znova prihlasi automatiky
+bude zase poslany do zalara. Ak nie je ziaden jailroom urceny posle ho
+do main roomu, ale taktiez nadobudne status uvazneneho. Uzivatel nemusi
+byt online na to aby bol uvazneny. Pokial uvazni niekoho ANJEL tak ho
+moze prepustit len ANJEL, alebo ARCHANJEL.

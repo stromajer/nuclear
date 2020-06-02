@@ -1,0 +1,7 @@
+~OLPrikaz  :~RS sklonuj
+~OLPouzitie:~RS sklonuj [<meno> <pad> <tvar>]
+
+Prikaz sluzi na manualne nastavenie sklonovania...
+meno - username
+pad - N,G,D,A,L,I
+tvar - vysklonovany tvar

@@ -1,0 +1,7 @@
+~OLPrikaz  :~RS bbcast
+~OLPouzitie:~RS bbcast <text>
+
+Spravi "Velmi dolezitu spravu" podobne ako .bcast, ktora sa zobrazi
+kazdemu napriek tomu co vsetko ignoruje. Meno toho kto pouzije tento
+prikaz sa ale nezobrazi. Rozdiel od .bcast je v tom ze pri tomto
+prikaze sa sprava zobrazi aj s "beep" pipnutim.

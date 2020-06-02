@@ -1,0 +1,6 @@
+~OLPrikaz  :~RS connect
+~OLVyuzitie:~RS connect <miestnost>
+
+Tento prikaz sa pokusa spravit roomku ako most na iny talker tym, ze
+spravi linku. Linka musi byt definovana v config file.
+(pozn. Toto tak skoro nepojde. KvoCo) :-)

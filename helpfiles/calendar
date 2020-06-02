@@ -1,0 +1,7 @@
+~OLPrikaz  :~RS calendar
+~OLPouzitie:~RS calendar [<mesiac> [<rok>]]
+
+Tento prikaz zobrazi kalendar, vyznaci aktualny den (ak mas zapnute
+farby). Ak nezadas ziadny parameter zobrazi aktualny mesiac. Ak zadas
+iba mesiac tak zobrazi onen mesiac v aktualnom roku. Parameter mesiac
+mozes zadavat od 1 do 12. Parameter rok mozes zadavat od 1800 do 3000.

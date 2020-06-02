@@ -1,0 +1,87 @@
+# Main config file for Amnuts 2.3.0
+
+INIT:
+verification       nuclear
+mainport           9999
+wizport            9998
+linkport           9997
+max_users          50
+max_clones         5
+heartbeat          2
+login_idle_time    180
+user_idle_time     3600
+time_out_afks      YES
+ban_swearing       OFF
+auto_connect       YES
+password_echo      NO
+ignore_sigterm     NO
+system_logging     ON
+colour_def         ON
+prompt_def         OFF
+charecho_def       OFF
+minlogin_level     NONE
+mesg_life          10
+mesg_check_time    01:00
+min_private        2
+ignore_mp_level    KUZELNIK
+rem_user_maxlevel  PUTNIK
+rem_user_deflevel  PUTNIK
+wizport_level      DRUID
+gatecrash_level    ARCHANJEL
+time_out_maxlevel  ANJEL
+crash_action       REBOOT
+auto_purge         NO
+allow_recaps       YES
+auto_promote       NO
+personal_rooms     YES
+startup_room_parse YES
+random_motds       YES
+resolve_ip         AUTO
+flood_protect      ON
+boot_off_min       YES
+
+
+ROOMS:
+# format
+# map  label  name              links              netlink connections
+general hu  hlavna_ulica        np,va          PUB
+general np  old_nuclear_plant   hu,co           
+general co  core                np           
+general va  vault_13            hu,se  
+general ne  nebesa              hu                 PRIV
+general la  ladova_jaskyna      ve        
+general ve  veza_carodeja       la,hu              PUB
+general hr  hrad                hu           
+general se  serverovna          hu           
+general baz bazilika_sv_michala hu                 PUB  
+general st  stonehenge          le
+general le  les_jednorozcov     ro,st,str          PUB
+general ro  roklinka            hu,le,vo,dr     PUB
+general str strom_zivota        le                 
+general vo  vodopady            ro
+general dr  dracia_hora         ro
+general ob  oblacik             hu                 PRIV
+podzemie mk mestska_kanalizacia sx
+podzemie pe peklo               mz,pv     
+podzemie sx styx                mk,mz
+podzemie mz zatratene_mesto     pe,pv,sx
+podzemie pv pevnost             zl,pe,mz
+podzemie zl zalar               hu			   PRIV             
+
+TOPICS:
+# format
+# room name     topic
+hlavna_ulica    Fallout Rulez
+hrad            Openvenie ;)) !!
+serverovna      IcT ty prasivy radiaktivny pes!
+
+# Link to the 2nd talker. You may need to put the machine name rather than
+# localhost here when you're running the 2nd talker on the same machine, it
+# depends on how the /etc/hosts file is set up and also the resolver.
+# none of these are real talkers or sites!
+
+SITES:
+# format
+# link name    address               password
+talker1        localhost 5002        test123
+

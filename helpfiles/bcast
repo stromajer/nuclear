@@ -1,0 +1,6 @@
+~OLPrikaz  :~RS bcast
+~OLPouzitie:~RS bcast <text>
+
+Text ktory zadate bude zobrazeny ako dolezity oznam pre cely talker,
+zobrazi sa vsetkym bez ohladu na to co ignoruju. Meno osoby, ktora
+spravu poslala sa nezobrazi.

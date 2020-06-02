@@ -1,0 +1,5 @@
+~OLPrikaz  :~RS beep
+~OLPouzitie:~RS beep <user> [<text>]
+
+Posle uzivatelo spravu ozvucenu "beep" pipnutim. Ak nezadas text, posle
+sa mu standardna beep-sprava.
